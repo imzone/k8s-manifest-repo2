@@ -3,7 +3,7 @@ kind: Kustomization
 images:
 - name: 665751286595.dkr.ecr.ap-northeast-2.amazonaws.com/nginx-repo
   newName: 665751286595.dkr.ecr.ap-northeast-2.amazonaws.com/nginx-repo
-  newTag: 660b8aad
+  newTag: cf11dc49
 resources:
 - ../../base
 patchesStrategicMerge:
